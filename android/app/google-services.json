@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345406840514",
+    "project_id": "qr-app-meril",
+    "storage_bucket": "qr-app-meril.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345406840514:android:d0a2d65011b8cf4ced255b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8cJz-SjeDI-Z-OUQZmBDkd2j1WcIyTgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
